@@ -18,3 +18,5 @@ Este projeto é uma aplicação frontend desenvolvida com React, que oferece fun
 - Local Storage
 - CSS
 - Bootstrap
+
+*Para visualizar o projeto acesse o link* → https://drive.google.com/file/d/1tJ07oIol7BFXgR8Uz-zmYElpGQlOuexQ/view?usp=sharing ٩(◕‿◕｡)۶
